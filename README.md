@@ -80,4 +80,4 @@ J.E. Randolph 📧 `700josh.r@gmail.com`
 ---
 
 
-Copyright © 2026 Jonathan Alan Reed. Software provided under AGPL-3.0. Commercial use requires a separate license agreement.
+Copyright © 2026 Jonathan Alan Reed. 
